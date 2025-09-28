@@ -1,0 +1,5 @@
+google adk
+pytrends
+praw
+dotenv
+os
